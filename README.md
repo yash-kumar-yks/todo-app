@@ -1,2 +1,2 @@
 # todo-app
-built in django
+built with django framework
